@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/emhyrx/react-color-sort/static/css/main.5861623f.css",
-    "main.js": "/emhyrx/react-color-sort/static/js/main.feecaed5.js",
-    "static/js/787.33f7c271.chunk.js": "/emhyrx/react-color-sort/static/js/787.33f7c271.chunk.js",
-    "static/media/bloop.mp3": "/emhyrx/react-color-sort/static/media/bloop.2e012ac2cfcff8a1270a.mp3",
-    "static/media/nope.mp3": "/emhyrx/react-color-sort/static/media/nope.5740c059ff4ab20bca5c.mp3",
-    "index.html": "/emhyrx/react-color-sort/index.html",
-    "main.5861623f.css.map": "/emhyrx/react-color-sort/static/css/main.5861623f.css.map",
-    "main.feecaed5.js.map": "/emhyrx/react-color-sort/static/js/main.feecaed5.js.map",
-    "787.33f7c271.chunk.js.map": "/emhyrx/react-color-sort/static/js/787.33f7c271.chunk.js.map"
+    "main.css": "/react-color-sort/static/css/main.5861623f.css",
+    "main.js": "/react-color-sort/static/js/main.e7bd4957.js",
+    "static/js/787.33f7c271.chunk.js": "/react-color-sort/static/js/787.33f7c271.chunk.js",
+    "static/media/bloop.mp3": "/react-color-sort/static/media/bloop.2e012ac2cfcff8a1270a.mp3",
+    "static/media/nope.mp3": "/react-color-sort/static/media/nope.5740c059ff4ab20bca5c.mp3",
+    "index.html": "/react-color-sort/index.html",
+    "main.5861623f.css.map": "/react-color-sort/static/css/main.5861623f.css.map",
+    "main.e7bd4957.js.map": "/react-color-sort/static/js/main.e7bd4957.js.map",
+    "787.33f7c271.chunk.js.map": "/react-color-sort/static/js/787.33f7c271.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5861623f.css",
-    "static/js/main.feecaed5.js"
+    "static/js/main.e7bd4957.js"
   ]
 }
